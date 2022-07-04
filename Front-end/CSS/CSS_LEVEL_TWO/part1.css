@@ -3,9 +3,7 @@ h1 {
 }
 
 p {
-    font-family: monospace;
-}
-
-body {
-    font-size: 15px;
+    font-family: 'MayinsHandRegular';
+    font-weight: normal;
+    font-style: normal;
 }
